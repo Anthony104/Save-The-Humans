@@ -1,0 +1,13 @@
+F:\Anthony\C#\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+F:\Anthony\C#\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csprojResolveAssemblyReference.cache
+F:\Anthony\C#\Save the Humans\Save the Humans\obj\Debug\MainWindow.baml
+F:\Anthony\C#\Save the Humans\Save the Humans\obj\Debug\MainWindow.g.cs
+F:\Anthony\C#\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+F:\Anthony\C#\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.cache
+F:\Anthony\C#\Save the Humans\Save the Humans\obj\Debug\Save the Humans.g.resources
+F:\Anthony\C#\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Properties.Resources.resources
+F:\Anthony\C#\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.Cache
+F:\Anthony\C#\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+F:\Anthony\C#\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+F:\Anthony\C#\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+F:\Anthony\C#\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
